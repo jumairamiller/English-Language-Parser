@@ -8,7 +8,7 @@ This was an English Lanugage Parser Developed in Prolog. The idea is to define t
 - Prepositions
 - Adjectives
 
-We would then Define the rules that would serve as the grammar for the language 
+I would then Define the rules that would serve as the grammar for the language 
 so the example for the sentence would be:
 
 ```prolog
